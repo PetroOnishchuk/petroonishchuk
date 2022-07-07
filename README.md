@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning: Swift development. Go (Golang) development. Software development.
 - 📫 How to reach me on [Twiter](https://mobile.twitter.com/petro_onishchuk) [Linkedin](https://www.linkedin.com/in/petro-onishchuk-685480182/) [YouTube](https://www.youtube.com/channel/UCnRig_Bxl2PKrdyGjPjA7lA?view_as=subscriber)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=petroonishchuk.petroonishchuk)
 <!--
 **PetroOnishchuk/petroonishchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
