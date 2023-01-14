@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning: Swift (iOS) development. Go (Golang) development. Software development.
 - 📫 How to reach me on [Twiter](https://mobile.twitter.com/petro_onishchuk) [Linkedin](https://www.linkedin.com/in/petro-onishchuk-685480182/) [YouTube](https://www.youtube.com/channel/UCnRig_Bxl2PKrdyGjPjA7lA?view_as=subscriber)
+- ☕️ [Buy me a coffee] (https://www.buymeacoffee.com/petroonishchuk)
+- Thank You.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=petroonishchuk.petroonishchuk)
 
