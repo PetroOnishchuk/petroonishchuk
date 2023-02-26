@@ -2,7 +2,7 @@
 ### I'm Petro Onishchuk.  
 
 - 🔭 I'm an iOS developer specializing in using SwiftUI, Firebase, UIKit, and occasionally Golang to develop engaging user interfaces and cloud-based solutions for Apple platforms such as macOS, iOS, iPadOS, watchOS, and tvOS. Additionally, I enjoy sharing my knowledge with others by creating tutorials related to these topics. 
-- 🌱 I’m currently more deep learning: Swift (iOS) development (SwiftUI, Firebase),  Go (Golang) development. 
+- 🌱 I’m currently more deep learning: Swift development (SwiftUI, Firebase), and occasionally Go (Golang) development. 
 - 📫 How to reach me: on [Twiter](https://mobile.twitter.com/petro_onishchuk) [Linkedin](https://www.linkedin.com/in/petro-onishchuk-685480182/) [YouTube](https://www.youtube.com/channel/UCnRig_Bxl2PKrdyGjPjA7lA?view_as=subscriber)
 - ☕️ [Buy me a coffee](https://www.buymeacoffee.com/petroonishchuk)
 - Thank You.
