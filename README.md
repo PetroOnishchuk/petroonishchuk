@@ -3,7 +3,7 @@
 
 - 🔭 I'm an iOS developer specializing in SwiftUI, Firebase, UIKit, and occasionally Golang. My focus is on creating engaging user interfaces and solutions, both local and cloud-based, tailored to meet end-users' needs.
 - 🌱 I enjoy sharing my knowledge with others by creating tutorials related to these topics. 
-- 🌱 I’m currently more deep learning: Swift development (SwiftUI, Firebase), and occasionally Go (Golang) development. 
+- 📚 I’m currently more deep learning: Swift development (SwiftUI, Firebase), and occasionally Go (Golang) development. 
 - 📫 How to reach me: on [Email](mailto:petro.onishchuk.dev@icloud.com) [Twiter](https://mobile.twitter.com/petro_onishchuk) [Linkedin](https://www.linkedin.com/in/petro-onishchuk-685480182/) [YouTube](https://www.youtube.com/channel/UCnRig_Bxl2PKrdyGjPjA7lA?view_as=subscriber)
 - ☕️ [Buy me a coffee](https://www.buymeacoffee.com/petroonishchuk)
 - Thank You.
